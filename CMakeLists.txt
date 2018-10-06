@@ -3,7 +3,7 @@ cmake_minimum_required(VERSION 3.12)
 set(SOURCE_NAME
         main.cpp
         capture.cpp
-        capture.h)
+        capture.hpp)
 
 function(Flag flag init_flag flag_message)
     if(NOT DEFINED ${flag})
