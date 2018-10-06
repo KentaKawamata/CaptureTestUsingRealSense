@@ -1,7 +1,7 @@
 //
 // Created by kawa on 9/30/18.
 //
-#include "capture.h"
+#include "capture.hpp"
 
 Capture::Capture() {
     startSenser();

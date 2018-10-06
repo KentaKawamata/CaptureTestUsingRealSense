@@ -3,7 +3,7 @@
 //
 #include <iostream>
 #include <sstream>
-#include "capture.h"
+#include "capture.hpp"
 
 int main(int argc, char* argv[]) {
 
